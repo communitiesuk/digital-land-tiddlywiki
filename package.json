@@ -1,0 +1,12 @@
+{
+  "name": "housing-datasets",
+  "version": "0.0.1",
+  "description": "A collection of datasets useful for people building houses",
+  "main": "index.js",
+  "repository": "https://github.com/communitiesuk/housing-datasets",
+  "author": "Paul Downey <psd@whatfettle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tiddlywiki": "^5.1.15"
+  }
+}

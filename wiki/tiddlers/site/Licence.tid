@@ -1,0 +1,9 @@
+color: #000000
+created: 20180416141340406
+licence: 
+modified: 20180418132330889
+tags: TableOfContents Tag
+title: Licence
+type: text/vnd.tiddlywiki
+
+{{ ||licence-table }}

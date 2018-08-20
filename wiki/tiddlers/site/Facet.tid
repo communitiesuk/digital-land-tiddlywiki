@@ -1,0 +1,12 @@
+color: #85994B
+created: 20150601200503321
+modified: 20180319120912044
+tags: 
+title: Facet
+type: text/vnd.tiddlywiki
+
+Each [[dataset|Dataset]] has been tagged with one or more of the following facets:
+
+<$list filter="[all[current]tagging[]sort[]]">
+	<<tag>>
+</$list>

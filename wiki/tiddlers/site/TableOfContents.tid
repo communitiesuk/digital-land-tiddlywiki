@@ -1,0 +1,13 @@
+caption: {{$:/language/SideBar/Contents/Caption}}
+color: #000000
+created: 20180319160113921
+list: [[Housing datasets]] Colophon
+list-after: $:/core/ui/SideBar/Open
+modified: 20180418100442056
+tags: $:/tags/SideBar
+title: TableOfContents
+type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+<<toc-selective-expandable 'TableOfContents'>>
+</div>

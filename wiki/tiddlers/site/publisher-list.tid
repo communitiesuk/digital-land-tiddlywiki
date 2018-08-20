@@ -1,0 +1,28 @@
+created: 20150530183441849
+modified: 20180419082005812
+tags: _presentation
+title: publisher-list
+type: text/vnd.tiddlywiki
+
+There are <$count filter="[all[current]tagging[]tag[Publisher]]"/> [[organisations|Publisher]] tagged with ''{{!!title}}''. 
+
+<table>
+<tr style="height:3em;">
+  <td>[[Publisher]]</td>
+  <td>Tags</td>
+</tr>
+<$list filter="[all[current]tagging[]tag[Organisation]sort[]]">
+<tr>
+  <td>
+    <$button class="tc-btn-invisible tc-tiddlylink tc-tag-label" style="background-color: #ffffff; color: #000000" to={{!!title}}>
+      <$transclude tiddler={{!!icon}}/> <$view field="title" format="text" />
+    </$button>
+  </td>
+  <td><$list filter="[all[current]tags[]sort[]]">
+    <$button class="tc-btn-invisible tc-tiddlylink tc-tag-label" style="background-color: #ffffff; color: #000000" to={{!!title}}>
+      <$transclude tiddler={{!!icon}}/> <$view field="title" format="text" />
+    </$button>
+   </$list></td>
+</tr>
+</$list>
+</table>

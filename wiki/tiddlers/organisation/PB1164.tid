@@ -1,0 +1,16 @@
+title: Historic England
+tags:  Organisation [[Department for Digital, Culture, Media & Sport]]
+color: #ffffff
+icon: he_logo
+type: text/vnd.tiddlywiki
+link: https://historicengland.org.uk/
+curie: government-organisation:PB1164
+register: government-organisation
+government-organisation: PB1164
+parent-organisation: government-organisation:D5
+
+<<<
+Historic England is the government’s statutory adviser on the historic environment, championing historic places and helping people to understand, value and care for them.
+<<<
+
+{{ ||dataset-table }}

@@ -1,0 +1,13 @@
+title: Natural England
+tags:  Organisation [[Department for Environment, Food & Rural Affairs]]
+color: #ffffff
+type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/natural-england
+abbr: NE
+icon: ne_logo
+
+<<<
+The government’s adviser on the natural environment, providing practical scientific advice on how to look after England's landscapes and wildlife.
+<<<
+
+{{ ||dataset-table }}

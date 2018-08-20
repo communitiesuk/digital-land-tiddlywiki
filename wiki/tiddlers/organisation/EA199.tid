@@ -1,0 +1,15 @@
+title: Environment Agency
+tags:  Organisation [[GOV.UK]] [[Department for Environment, Food & Rural Affairs]]
+color: #ffffff
+type: text/vnd.tiddlywiki
+abbr: EA
+icon: ea_logo
+link: https://www.gov.uk/government/organisations/environment-agency
+register: government-organisation
+government-organisation: EA199
+
+<<<
+We work to create better places for people and wildlife, and support sustainable development.
+<<<
+
+{{ ||dataset-table }}

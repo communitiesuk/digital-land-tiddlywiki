@@ -1,0 +1,13 @@
+title: HM Land Registry
+tags:  Organisation [[GOV.UK]]
+color: #ffffff
+type: text/vnd.tiddlywiki
+link: https://www.gov.uk/government/organisations/land-registry
+icon: lr_logo
+abbr: LR
+
+<<<
+Registers the ownership of land and property in England and Wales.
+<<<
+
+{{ ||dataset-table }}

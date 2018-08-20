@@ -1,0 +1,11 @@
+color: #DF3034
+created: 20150527104331162
+modified: 20180319120921230
+title: Category
+type: text/vnd.tiddlywiki
+
+Each [[dataset|Dataset]] has been assigned more or more of the following categories:
+
+* <<tag Register>> — indicates one or more canonical, factual datasets, suitable for operating government and other services.
+* <<tag Statistics>> — is considered to be statistics which may be compiled from data held in [[registers|Register]], published by the [[ONS|Office for National Statistics]] or on [[GOV.UK]] as a periodic publication.
+* <<tag Other>> — bitmaps, informal data, or other publication unlikely to be factual data recorded in a [[Register]] or published as [[Statistics]].

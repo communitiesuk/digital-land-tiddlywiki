@@ -1,0 +1,12 @@
+created: 20180418130519711
+link: https://data.gov.uk/dataset/7749e0a6-08fb-4ad8-8232-4e41da74a248/flood-alert-areas
+modified: 20180418130531202
+tags: Dataset [[Environment Agency]]
+title: Flood Alert Areas
+type: text/vnd.tiddlywiki
+
+From [[data.gov.uk|https://data.gov.uk/dataset/7749e0a6-08fb-4ad8-8232-4e41da74a248/flood-alert-areas]]:
+
+<<<
+Flood Alert Areas are geographical areas where it is possible for flooding to occur from rivers sea and in some locations groundwater. A single Flood Alert Area may cover the floodplain within the Flood Warning Service Limit of multiple catchments of similar characteristics containing a number of Flood Warning Areas. A Flood Alert Area may also match that of a corresponding Flood Warning Area and warn for the possibility of flooding in that area. In some coastal locations a Flood Alert may be issued for spray or overtopping and be defined by a stretch of coastline. Practical and administrative factors may also influence the exact extent of a Flood Alert Area. A Flood Alert is issued to warn people of the possibility of flooding and encourage them to be alert stay vigilant and make early / low impact preparations for flooding. Flood Alerts are issued earlier than Flood Warnings to provide advance notice of the possibility of flooding and may be issued when there is less confidence that flooding will occur in a Food Warning Area. Flood Warnings Areas (established to apply to discrete communities) is available in AfA054. INFORMATION WARNING The groundwater flood alert areas are either at a community/local scale, or where this is not possible are more generalised and based on other factors, such as geology and counties. In general technical specialists used the national groundwater dataset to make a comparison with historical maps and bedrock geology to create the groundwater flood alert areas. Additional data sources, including groundwater susceptibility maps, borehole data, local modelling and LiDAR may also have been used depending on the location of the area. The triggers for groundwater flood alerts are based on actual observed groundwater levels. There are currently no flood risk maps for groundwater; as a result we are unable to identify properties definitely at risk.
+<<<

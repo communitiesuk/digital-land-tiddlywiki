@@ -1,0 +1,18 @@
+color: #ffffff
+created: 20150530193555152
+modified: 20150530193557597
+tags: Organisation
+title: Ordnance Survey
+type: text/vnd.tiddlywiki
+icon: os_logo
+abbr: OS
+link: https://www.gov.uk/government/organisations/ordnance-survey
+website: http://www.ordnancesurvey.co.uk/
+register: government-organisation:D38
+government-organisation: D38
+
+<<<
+Great Britain’s national mapping agency. It carries out the official surveying of GB, providing the most accurate and up-to-date geographic data, relied on by government, business and individuals.
+<<<
+
+{{ ||dataset-table }}

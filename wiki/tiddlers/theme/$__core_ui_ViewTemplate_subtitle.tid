@@ -1,0 +1,13 @@
+created: 20180416143304558
+modified: 20180416143308612
+tags: $:/tags/ViewTemplate
+title: $:/core/ui/ViewTemplate/subtitle
+type: text/vnd.tiddlywiki
+
+<$reveal type="nomatch" state=<<folded-state>> text="hide" tag="div" retain="yes" animate="yes">
+<div class="tc-subtitle">
+<$link to={{!!modifier}}>
+<$view field="modifier"/>
+</$link>
+</div>
+</$reveal>

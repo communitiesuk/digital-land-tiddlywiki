@@ -1,0 +1,24 @@
+created: 20180417074457889
+modified: 20180417074840216
+tags: _presentation
+title: licence-table
+type: text/vnd.tiddlywiki
+
+There are <$count filter="[all[current]tagging[]tag[Licence]]"/> items tagged with ''{{!!title}}''. 
+
+<table>
+<tr style="height:3em;">
+  <td>[[Licence]]</td>
+  <td>[[Dataset]]</td>
+</tr>
+<$list filter="[all[current]tagging[]tag[Licence]sort[]]">
+<tr>
+  <td><$link to={{!!title}}><$view field="title"/></$link></td>
+  <td><$list filter="[all[current]tags[]tag[Dataset]]">
+    <$button class="tc-btn-invisible tc-tiddlylink tc-tag-label" style="background-color: #ffffff; color: #000000" to={{!!title}}>
+      <$transclude tiddler={{!!icon}}/> <$view field="title" format="text" />
+    </$button>
+   </$list></td>
+</tr>
+</$list>
+</table>

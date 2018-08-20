@@ -1,0 +1,15 @@
+title: Ministry of Housing, Communities and Local Government
+tags:  Organisation [[GOV.UK]]
+color: #ffffff
+icon: org_crest
+type: text/vnd.tiddlywiki
+abbr: MHCLG
+link: https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government
+register: government-organisation
+government-organisation: D4
+
+<<<
+The Ministry of Housing, Communities and Local Government's job is to create great places to live and work, and to give more power to local people to shape what happens in their area.
+<<<
+
+{{ ||dataset-table }}

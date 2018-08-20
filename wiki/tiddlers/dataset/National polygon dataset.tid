@@ -1,0 +1,9 @@
+created: 20180416133030118
+modified: 20180419082534926
+tags: [[HM Land Registry]] Dataset [[National polygon service]]
+title: National polygon dataset
+type: text/vnd.tiddlywiki
+
+The National Polygon dataset shows the indicative shape and position of each boundary of a [[HM Land Registry]] registered [[title]] for land and property ownership in England and Wales.
+
+This dataset contains more than 25 million titles and includes 28 million polygons. [[HM Land Registry]] index polygons are mapped against Ordnance Survey’s large scale map [[MasterMap]].
